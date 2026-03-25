@@ -7,7 +7,10 @@
             <file>file:/C:/Users/rriquelme/Documents/NetBeansProjects/PlataformaDemo/src/main/MainClass.java</file>
             <file>file:/C:/Users/rriquelme/Documents/NetBeansProjects/PlataformaDemo/src/main/GameWindow.java</file>
             <file>file:/C:/Users/rriquelme/Documents/NetBeansProjects/PlataformaDemo/src/main/GamePanel.java</file>
-            <file>file:/C:/Users/rriquelme/Documents/NetBeansProjects/PlataformaDemo/src/inputs/KeybordInputs.java</file>
+            <file>file:/C:/Users/rriquelme/Documents/NetBeansProjects/PlataformaDemo/src/inputs/KeyboardInputs.java</file>
+            <file>file:/C:/Users/rriquelme/Documents/NetBeansProjects/PlataformaDemo/src/main/LoadSave.java</file>
+            <file>file:/C:/Users/rriquelme/Documents/NetBeansProjects/PlataformaDemo/src/main/Animation.java</file>
+            <file>file:/C:/Users/rriquelme/Documents/NetBeansProjects/PlataformaDemo/src/main/Player.java</file>
         </group>
     </open-files>
 </project-private>
